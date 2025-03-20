@@ -11369,115 +11369,115 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/system.memory/4.5.4/system.memory.4.5.4.nupkg",
-        "sha512": "8ece5491eb0fe332bc190f40cf76b3beee0c5f996325034861be221fdb0ff02fd59e4f7020b3c4a1f29a457f76ff76c4c95d46d38555e4f48c7a3bf172d87966",
+        "url": "https://api.nuget.org/v3-flatcontainer/system.memory/4.5.5/system.memory.4.5.5.nupkg",
+        "sha512": "e8c8e536c97b94ac3443c940b30dad43cf6e97dc7a8c3d989371048fe74e168606384f5e0143bdc0d86f7783bf9fdee8417964cb3a8a5d752713e90b125172dc",
         "dest": "nuget-sources",
-        "dest-filename": "system.memory.4.5.4.nupkg"
+        "dest-filename": "system.memory.4.5.5.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/system.memory/4.5.4/system.memory.4.5.4.nupkg",
-        "sha512": "8ece5491eb0fe332bc190f40cf76b3beee0c5f996325034861be221fdb0ff02fd59e4f7020b3c4a1f29a457f76ff76c4c95d46d38555e4f48c7a3bf172d87966",
+        "url": "https://api.nuget.org/v3-flatcontainer/system.memory/4.5.5/system.memory.4.5.5.nupkg",
+        "sha512": "e8c8e536c97b94ac3443c940b30dad43cf6e97dc7a8c3d989371048fe74e168606384f5e0143bdc0d86f7783bf9fdee8417964cb3a8a5d752713e90b125172dc",
         "dest": "nuget-sources",
-        "dest-filename": "system.memory.4.5.4.nupkg"
+        "dest-filename": "system.memory.4.5.5.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/system.memory/4.5.4/system.memory.4.5.4.nupkg",
-        "sha512": "8ece5491eb0fe332bc190f40cf76b3beee0c5f996325034861be221fdb0ff02fd59e4f7020b3c4a1f29a457f76ff76c4c95d46d38555e4f48c7a3bf172d87966",
+        "url": "https://api.nuget.org/v3-flatcontainer/system.memory/4.5.5/system.memory.4.5.5.nupkg",
+        "sha512": "e8c8e536c97b94ac3443c940b30dad43cf6e97dc7a8c3d989371048fe74e168606384f5e0143bdc0d86f7783bf9fdee8417964cb3a8a5d752713e90b125172dc",
         "dest": "nuget-sources",
-        "dest-filename": "system.memory.4.5.4.nupkg"
+        "dest-filename": "system.memory.4.5.5.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/system.memory/4.5.4/system.memory.4.5.4.nupkg",
-        "sha512": "8ece5491eb0fe332bc190f40cf76b3beee0c5f996325034861be221fdb0ff02fd59e4f7020b3c4a1f29a457f76ff76c4c95d46d38555e4f48c7a3bf172d87966",
+        "url": "https://api.nuget.org/v3-flatcontainer/system.memory/4.5.5/system.memory.4.5.5.nupkg",
+        "sha512": "e8c8e536c97b94ac3443c940b30dad43cf6e97dc7a8c3d989371048fe74e168606384f5e0143bdc0d86f7783bf9fdee8417964cb3a8a5d752713e90b125172dc",
         "dest": "nuget-sources",
-        "dest-filename": "system.memory.4.5.4.nupkg"
+        "dest-filename": "system.memory.4.5.5.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/system.memory/4.5.4/system.memory.4.5.4.nupkg",
-        "sha512": "8ece5491eb0fe332bc190f40cf76b3beee0c5f996325034861be221fdb0ff02fd59e4f7020b3c4a1f29a457f76ff76c4c95d46d38555e4f48c7a3bf172d87966",
+        "url": "https://api.nuget.org/v3-flatcontainer/system.memory/4.5.5/system.memory.4.5.5.nupkg",
+        "sha512": "e8c8e536c97b94ac3443c940b30dad43cf6e97dc7a8c3d989371048fe74e168606384f5e0143bdc0d86f7783bf9fdee8417964cb3a8a5d752713e90b125172dc",
         "dest": "nuget-sources",
-        "dest-filename": "system.memory.4.5.4.nupkg"
+        "dest-filename": "system.memory.4.5.5.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/system.memory/4.5.4/system.memory.4.5.4.nupkg",
-        "sha512": "8ece5491eb0fe332bc190f40cf76b3beee0c5f996325034861be221fdb0ff02fd59e4f7020b3c4a1f29a457f76ff76c4c95d46d38555e4f48c7a3bf172d87966",
+        "url": "https://api.nuget.org/v3-flatcontainer/system.memory/4.5.5/system.memory.4.5.5.nupkg",
+        "sha512": "e8c8e536c97b94ac3443c940b30dad43cf6e97dc7a8c3d989371048fe74e168606384f5e0143bdc0d86f7783bf9fdee8417964cb3a8a5d752713e90b125172dc",
         "dest": "nuget-sources",
-        "dest-filename": "system.memory.4.5.4.nupkg"
+        "dest-filename": "system.memory.4.5.5.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/system.memory/4.5.4/system.memory.4.5.4.nupkg",
-        "sha512": "8ece5491eb0fe332bc190f40cf76b3beee0c5f996325034861be221fdb0ff02fd59e4f7020b3c4a1f29a457f76ff76c4c95d46d38555e4f48c7a3bf172d87966",
+        "url": "https://api.nuget.org/v3-flatcontainer/system.memory/4.5.5/system.memory.4.5.5.nupkg",
+        "sha512": "e8c8e536c97b94ac3443c940b30dad43cf6e97dc7a8c3d989371048fe74e168606384f5e0143bdc0d86f7783bf9fdee8417964cb3a8a5d752713e90b125172dc",
         "dest": "nuget-sources",
-        "dest-filename": "system.memory.4.5.4.nupkg"
+        "dest-filename": "system.memory.4.5.5.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/system.memory/4.5.4/system.memory.4.5.4.nupkg",
-        "sha512": "8ece5491eb0fe332bc190f40cf76b3beee0c5f996325034861be221fdb0ff02fd59e4f7020b3c4a1f29a457f76ff76c4c95d46d38555e4f48c7a3bf172d87966",
+        "url": "https://api.nuget.org/v3-flatcontainer/system.memory/4.5.5/system.memory.4.5.5.nupkg",
+        "sha512": "e8c8e536c97b94ac3443c940b30dad43cf6e97dc7a8c3d989371048fe74e168606384f5e0143bdc0d86f7783bf9fdee8417964cb3a8a5d752713e90b125172dc",
         "dest": "nuget-sources",
-        "dest-filename": "system.memory.4.5.4.nupkg"
+        "dest-filename": "system.memory.4.5.5.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/system.memory/4.5.4/system.memory.4.5.4.nupkg",
-        "sha512": "8ece5491eb0fe332bc190f40cf76b3beee0c5f996325034861be221fdb0ff02fd59e4f7020b3c4a1f29a457f76ff76c4c95d46d38555e4f48c7a3bf172d87966",
+        "url": "https://api.nuget.org/v3-flatcontainer/system.memory/4.5.5/system.memory.4.5.5.nupkg",
+        "sha512": "e8c8e536c97b94ac3443c940b30dad43cf6e97dc7a8c3d989371048fe74e168606384f5e0143bdc0d86f7783bf9fdee8417964cb3a8a5d752713e90b125172dc",
         "dest": "nuget-sources",
-        "dest-filename": "system.memory.4.5.4.nupkg"
+        "dest-filename": "system.memory.4.5.5.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/system.memory/4.5.4/system.memory.4.5.4.nupkg",
-        "sha512": "8ece5491eb0fe332bc190f40cf76b3beee0c5f996325034861be221fdb0ff02fd59e4f7020b3c4a1f29a457f76ff76c4c95d46d38555e4f48c7a3bf172d87966",
+        "url": "https://api.nuget.org/v3-flatcontainer/system.memory/4.5.5/system.memory.4.5.5.nupkg",
+        "sha512": "e8c8e536c97b94ac3443c940b30dad43cf6e97dc7a8c3d989371048fe74e168606384f5e0143bdc0d86f7783bf9fdee8417964cb3a8a5d752713e90b125172dc",
         "dest": "nuget-sources",
-        "dest-filename": "system.memory.4.5.4.nupkg"
+        "dest-filename": "system.memory.4.5.5.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/system.memory/4.5.4/system.memory.4.5.4.nupkg",
-        "sha512": "8ece5491eb0fe332bc190f40cf76b3beee0c5f996325034861be221fdb0ff02fd59e4f7020b3c4a1f29a457f76ff76c4c95d46d38555e4f48c7a3bf172d87966",
+        "url": "https://api.nuget.org/v3-flatcontainer/system.memory/4.5.5/system.memory.4.5.5.nupkg",
+        "sha512": "e8c8e536c97b94ac3443c940b30dad43cf6e97dc7a8c3d989371048fe74e168606384f5e0143bdc0d86f7783bf9fdee8417964cb3a8a5d752713e90b125172dc",
         "dest": "nuget-sources",
-        "dest-filename": "system.memory.4.5.4.nupkg"
+        "dest-filename": "system.memory.4.5.5.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/system.memory/4.5.4/system.memory.4.5.4.nupkg",
-        "sha512": "8ece5491eb0fe332bc190f40cf76b3beee0c5f996325034861be221fdb0ff02fd59e4f7020b3c4a1f29a457f76ff76c4c95d46d38555e4f48c7a3bf172d87966",
+        "url": "https://api.nuget.org/v3-flatcontainer/system.memory/4.5.5/system.memory.4.5.5.nupkg",
+        "sha512": "e8c8e536c97b94ac3443c940b30dad43cf6e97dc7a8c3d989371048fe74e168606384f5e0143bdc0d86f7783bf9fdee8417964cb3a8a5d752713e90b125172dc",
         "dest": "nuget-sources",
-        "dest-filename": "system.memory.4.5.4.nupkg"
+        "dest-filename": "system.memory.4.5.5.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/system.memory/4.5.4/system.memory.4.5.4.nupkg",
-        "sha512": "8ece5491eb0fe332bc190f40cf76b3beee0c5f996325034861be221fdb0ff02fd59e4f7020b3c4a1f29a457f76ff76c4c95d46d38555e4f48c7a3bf172d87966",
+        "url": "https://api.nuget.org/v3-flatcontainer/system.memory/4.5.5/system.memory.4.5.5.nupkg",
+        "sha512": "e8c8e536c97b94ac3443c940b30dad43cf6e97dc7a8c3d989371048fe74e168606384f5e0143bdc0d86f7783bf9fdee8417964cb3a8a5d752713e90b125172dc",
         "dest": "nuget-sources",
-        "dest-filename": "system.memory.4.5.4.nupkg"
+        "dest-filename": "system.memory.4.5.5.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/system.memory/4.5.4/system.memory.4.5.4.nupkg",
-        "sha512": "8ece5491eb0fe332bc190f40cf76b3beee0c5f996325034861be221fdb0ff02fd59e4f7020b3c4a1f29a457f76ff76c4c95d46d38555e4f48c7a3bf172d87966",
+        "url": "https://api.nuget.org/v3-flatcontainer/system.memory/4.5.5/system.memory.4.5.5.nupkg",
+        "sha512": "e8c8e536c97b94ac3443c940b30dad43cf6e97dc7a8c3d989371048fe74e168606384f5e0143bdc0d86f7783bf9fdee8417964cb3a8a5d752713e90b125172dc",
         "dest": "nuget-sources",
-        "dest-filename": "system.memory.4.5.4.nupkg"
+        "dest-filename": "system.memory.4.5.5.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/system.memory/4.5.4/system.memory.4.5.4.nupkg",
-        "sha512": "8ece5491eb0fe332bc190f40cf76b3beee0c5f996325034861be221fdb0ff02fd59e4f7020b3c4a1f29a457f76ff76c4c95d46d38555e4f48c7a3bf172d87966",
+        "url": "https://api.nuget.org/v3-flatcontainer/system.memory/4.5.5/system.memory.4.5.5.nupkg",
+        "sha512": "e8c8e536c97b94ac3443c940b30dad43cf6e97dc7a8c3d989371048fe74e168606384f5e0143bdc0d86f7783bf9fdee8417964cb3a8a5d752713e90b125172dc",
         "dest": "nuget-sources",
-        "dest-filename": "system.memory.4.5.4.nupkg"
+        "dest-filename": "system.memory.4.5.5.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/system.memory/4.5.4/system.memory.4.5.4.nupkg",
-        "sha512": "8ece5491eb0fe332bc190f40cf76b3beee0c5f996325034861be221fdb0ff02fd59e4f7020b3c4a1f29a457f76ff76c4c95d46d38555e4f48c7a3bf172d87966",
+        "url": "https://api.nuget.org/v3-flatcontainer/system.memory/4.5.5/system.memory.4.5.5.nupkg",
+        "sha512": "e8c8e536c97b94ac3443c940b30dad43cf6e97dc7a8c3d989371048fe74e168606384f5e0143bdc0d86f7783bf9fdee8417964cb3a8a5d752713e90b125172dc",
         "dest": "nuget-sources",
-        "dest-filename": "system.memory.4.5.4.nupkg"
+        "dest-filename": "system.memory.4.5.5.nupkg"
     },
     {
         "type": "file",
@@ -15926,115 +15926,115 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/system.text.encoding.codepages/4.5.1/system.text.encoding.codepages.4.5.1.nupkg",
-        "sha512": "12edddc9452a0c592eb24aeb2b9e152d60b8d44540349368e6fce3a239c6029847f8557adcd260df3b39c744ef45a6034d9db2fbce9e20e2b8dc78363578b0ef",
+        "url": "https://api.nuget.org/v3-flatcontainer/system.text.encoding.codepages/7.0.0/system.text.encoding.codepages.7.0.0.nupkg",
+        "sha512": "485abfaeb1f9dac307249b2d84375a7d63c4bb175109107ba59e3ab6b476c52a62d677ca3c06f0e9a999afd5bf2f21d396a4b4d534563bb9da8d1b8ed6fc458a",
         "dest": "nuget-sources",
-        "dest-filename": "system.text.encoding.codepages.4.5.1.nupkg"
+        "dest-filename": "system.text.encoding.codepages.7.0.0.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/system.text.encoding.codepages/4.5.1/system.text.encoding.codepages.4.5.1.nupkg",
-        "sha512": "12edddc9452a0c592eb24aeb2b9e152d60b8d44540349368e6fce3a239c6029847f8557adcd260df3b39c744ef45a6034d9db2fbce9e20e2b8dc78363578b0ef",
+        "url": "https://api.nuget.org/v3-flatcontainer/system.text.encoding.codepages/7.0.0/system.text.encoding.codepages.7.0.0.nupkg",
+        "sha512": "485abfaeb1f9dac307249b2d84375a7d63c4bb175109107ba59e3ab6b476c52a62d677ca3c06f0e9a999afd5bf2f21d396a4b4d534563bb9da8d1b8ed6fc458a",
         "dest": "nuget-sources",
-        "dest-filename": "system.text.encoding.codepages.4.5.1.nupkg"
+        "dest-filename": "system.text.encoding.codepages.7.0.0.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/system.text.encoding.codepages/4.5.1/system.text.encoding.codepages.4.5.1.nupkg",
-        "sha512": "12edddc9452a0c592eb24aeb2b9e152d60b8d44540349368e6fce3a239c6029847f8557adcd260df3b39c744ef45a6034d9db2fbce9e20e2b8dc78363578b0ef",
+        "url": "https://api.nuget.org/v3-flatcontainer/system.text.encoding.codepages/7.0.0/system.text.encoding.codepages.7.0.0.nupkg",
+        "sha512": "485abfaeb1f9dac307249b2d84375a7d63c4bb175109107ba59e3ab6b476c52a62d677ca3c06f0e9a999afd5bf2f21d396a4b4d534563bb9da8d1b8ed6fc458a",
         "dest": "nuget-sources",
-        "dest-filename": "system.text.encoding.codepages.4.5.1.nupkg"
+        "dest-filename": "system.text.encoding.codepages.7.0.0.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/system.text.encoding.codepages/4.5.1/system.text.encoding.codepages.4.5.1.nupkg",
-        "sha512": "12edddc9452a0c592eb24aeb2b9e152d60b8d44540349368e6fce3a239c6029847f8557adcd260df3b39c744ef45a6034d9db2fbce9e20e2b8dc78363578b0ef",
+        "url": "https://api.nuget.org/v3-flatcontainer/system.text.encoding.codepages/7.0.0/system.text.encoding.codepages.7.0.0.nupkg",
+        "sha512": "485abfaeb1f9dac307249b2d84375a7d63c4bb175109107ba59e3ab6b476c52a62d677ca3c06f0e9a999afd5bf2f21d396a4b4d534563bb9da8d1b8ed6fc458a",
         "dest": "nuget-sources",
-        "dest-filename": "system.text.encoding.codepages.4.5.1.nupkg"
+        "dest-filename": "system.text.encoding.codepages.7.0.0.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/system.text.encoding.codepages/4.5.1/system.text.encoding.codepages.4.5.1.nupkg",
-        "sha512": "12edddc9452a0c592eb24aeb2b9e152d60b8d44540349368e6fce3a239c6029847f8557adcd260df3b39c744ef45a6034d9db2fbce9e20e2b8dc78363578b0ef",
+        "url": "https://api.nuget.org/v3-flatcontainer/system.text.encoding.codepages/7.0.0/system.text.encoding.codepages.7.0.0.nupkg",
+        "sha512": "485abfaeb1f9dac307249b2d84375a7d63c4bb175109107ba59e3ab6b476c52a62d677ca3c06f0e9a999afd5bf2f21d396a4b4d534563bb9da8d1b8ed6fc458a",
         "dest": "nuget-sources",
-        "dest-filename": "system.text.encoding.codepages.4.5.1.nupkg"
+        "dest-filename": "system.text.encoding.codepages.7.0.0.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/system.text.encoding.codepages/4.5.1/system.text.encoding.codepages.4.5.1.nupkg",
-        "sha512": "12edddc9452a0c592eb24aeb2b9e152d60b8d44540349368e6fce3a239c6029847f8557adcd260df3b39c744ef45a6034d9db2fbce9e20e2b8dc78363578b0ef",
+        "url": "https://api.nuget.org/v3-flatcontainer/system.text.encoding.codepages/7.0.0/system.text.encoding.codepages.7.0.0.nupkg",
+        "sha512": "485abfaeb1f9dac307249b2d84375a7d63c4bb175109107ba59e3ab6b476c52a62d677ca3c06f0e9a999afd5bf2f21d396a4b4d534563bb9da8d1b8ed6fc458a",
         "dest": "nuget-sources",
-        "dest-filename": "system.text.encoding.codepages.4.5.1.nupkg"
+        "dest-filename": "system.text.encoding.codepages.7.0.0.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/system.text.encoding.codepages/4.5.1/system.text.encoding.codepages.4.5.1.nupkg",
-        "sha512": "12edddc9452a0c592eb24aeb2b9e152d60b8d44540349368e6fce3a239c6029847f8557adcd260df3b39c744ef45a6034d9db2fbce9e20e2b8dc78363578b0ef",
+        "url": "https://api.nuget.org/v3-flatcontainer/system.text.encoding.codepages/7.0.0/system.text.encoding.codepages.7.0.0.nupkg",
+        "sha512": "485abfaeb1f9dac307249b2d84375a7d63c4bb175109107ba59e3ab6b476c52a62d677ca3c06f0e9a999afd5bf2f21d396a4b4d534563bb9da8d1b8ed6fc458a",
         "dest": "nuget-sources",
-        "dest-filename": "system.text.encoding.codepages.4.5.1.nupkg"
+        "dest-filename": "system.text.encoding.codepages.7.0.0.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/system.text.encoding.codepages/4.5.1/system.text.encoding.codepages.4.5.1.nupkg",
-        "sha512": "12edddc9452a0c592eb24aeb2b9e152d60b8d44540349368e6fce3a239c6029847f8557adcd260df3b39c744ef45a6034d9db2fbce9e20e2b8dc78363578b0ef",
+        "url": "https://api.nuget.org/v3-flatcontainer/system.text.encoding.codepages/7.0.0/system.text.encoding.codepages.7.0.0.nupkg",
+        "sha512": "485abfaeb1f9dac307249b2d84375a7d63c4bb175109107ba59e3ab6b476c52a62d677ca3c06f0e9a999afd5bf2f21d396a4b4d534563bb9da8d1b8ed6fc458a",
         "dest": "nuget-sources",
-        "dest-filename": "system.text.encoding.codepages.4.5.1.nupkg"
+        "dest-filename": "system.text.encoding.codepages.7.0.0.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/system.text.encoding.codepages/4.5.1/system.text.encoding.codepages.4.5.1.nupkg",
-        "sha512": "12edddc9452a0c592eb24aeb2b9e152d60b8d44540349368e6fce3a239c6029847f8557adcd260df3b39c744ef45a6034d9db2fbce9e20e2b8dc78363578b0ef",
+        "url": "https://api.nuget.org/v3-flatcontainer/system.text.encoding.codepages/7.0.0/system.text.encoding.codepages.7.0.0.nupkg",
+        "sha512": "485abfaeb1f9dac307249b2d84375a7d63c4bb175109107ba59e3ab6b476c52a62d677ca3c06f0e9a999afd5bf2f21d396a4b4d534563bb9da8d1b8ed6fc458a",
         "dest": "nuget-sources",
-        "dest-filename": "system.text.encoding.codepages.4.5.1.nupkg"
+        "dest-filename": "system.text.encoding.codepages.7.0.0.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/system.text.encoding.codepages/4.5.1/system.text.encoding.codepages.4.5.1.nupkg",
-        "sha512": "12edddc9452a0c592eb24aeb2b9e152d60b8d44540349368e6fce3a239c6029847f8557adcd260df3b39c744ef45a6034d9db2fbce9e20e2b8dc78363578b0ef",
+        "url": "https://api.nuget.org/v3-flatcontainer/system.text.encoding.codepages/7.0.0/system.text.encoding.codepages.7.0.0.nupkg",
+        "sha512": "485abfaeb1f9dac307249b2d84375a7d63c4bb175109107ba59e3ab6b476c52a62d677ca3c06f0e9a999afd5bf2f21d396a4b4d534563bb9da8d1b8ed6fc458a",
         "dest": "nuget-sources",
-        "dest-filename": "system.text.encoding.codepages.4.5.1.nupkg"
+        "dest-filename": "system.text.encoding.codepages.7.0.0.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/system.text.encoding.codepages/4.5.1/system.text.encoding.codepages.4.5.1.nupkg",
-        "sha512": "12edddc9452a0c592eb24aeb2b9e152d60b8d44540349368e6fce3a239c6029847f8557adcd260df3b39c744ef45a6034d9db2fbce9e20e2b8dc78363578b0ef",
+        "url": "https://api.nuget.org/v3-flatcontainer/system.text.encoding.codepages/7.0.0/system.text.encoding.codepages.7.0.0.nupkg",
+        "sha512": "485abfaeb1f9dac307249b2d84375a7d63c4bb175109107ba59e3ab6b476c52a62d677ca3c06f0e9a999afd5bf2f21d396a4b4d534563bb9da8d1b8ed6fc458a",
         "dest": "nuget-sources",
-        "dest-filename": "system.text.encoding.codepages.4.5.1.nupkg"
+        "dest-filename": "system.text.encoding.codepages.7.0.0.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/system.text.encoding.codepages/4.5.1/system.text.encoding.codepages.4.5.1.nupkg",
-        "sha512": "12edddc9452a0c592eb24aeb2b9e152d60b8d44540349368e6fce3a239c6029847f8557adcd260df3b39c744ef45a6034d9db2fbce9e20e2b8dc78363578b0ef",
+        "url": "https://api.nuget.org/v3-flatcontainer/system.text.encoding.codepages/7.0.0/system.text.encoding.codepages.7.0.0.nupkg",
+        "sha512": "485abfaeb1f9dac307249b2d84375a7d63c4bb175109107ba59e3ab6b476c52a62d677ca3c06f0e9a999afd5bf2f21d396a4b4d534563bb9da8d1b8ed6fc458a",
         "dest": "nuget-sources",
-        "dest-filename": "system.text.encoding.codepages.4.5.1.nupkg"
+        "dest-filename": "system.text.encoding.codepages.7.0.0.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/system.text.encoding.codepages/4.5.1/system.text.encoding.codepages.4.5.1.nupkg",
-        "sha512": "12edddc9452a0c592eb24aeb2b9e152d60b8d44540349368e6fce3a239c6029847f8557adcd260df3b39c744ef45a6034d9db2fbce9e20e2b8dc78363578b0ef",
+        "url": "https://api.nuget.org/v3-flatcontainer/system.text.encoding.codepages/7.0.0/system.text.encoding.codepages.7.0.0.nupkg",
+        "sha512": "485abfaeb1f9dac307249b2d84375a7d63c4bb175109107ba59e3ab6b476c52a62d677ca3c06f0e9a999afd5bf2f21d396a4b4d534563bb9da8d1b8ed6fc458a",
         "dest": "nuget-sources",
-        "dest-filename": "system.text.encoding.codepages.4.5.1.nupkg"
+        "dest-filename": "system.text.encoding.codepages.7.0.0.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/system.text.encoding.codepages/4.5.1/system.text.encoding.codepages.4.5.1.nupkg",
-        "sha512": "12edddc9452a0c592eb24aeb2b9e152d60b8d44540349368e6fce3a239c6029847f8557adcd260df3b39c744ef45a6034d9db2fbce9e20e2b8dc78363578b0ef",
+        "url": "https://api.nuget.org/v3-flatcontainer/system.text.encoding.codepages/7.0.0/system.text.encoding.codepages.7.0.0.nupkg",
+        "sha512": "485abfaeb1f9dac307249b2d84375a7d63c4bb175109107ba59e3ab6b476c52a62d677ca3c06f0e9a999afd5bf2f21d396a4b4d534563bb9da8d1b8ed6fc458a",
         "dest": "nuget-sources",
-        "dest-filename": "system.text.encoding.codepages.4.5.1.nupkg"
+        "dest-filename": "system.text.encoding.codepages.7.0.0.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/system.text.encoding.codepages/4.5.1/system.text.encoding.codepages.4.5.1.nupkg",
-        "sha512": "12edddc9452a0c592eb24aeb2b9e152d60b8d44540349368e6fce3a239c6029847f8557adcd260df3b39c744ef45a6034d9db2fbce9e20e2b8dc78363578b0ef",
+        "url": "https://api.nuget.org/v3-flatcontainer/system.text.encoding.codepages/7.0.0/system.text.encoding.codepages.7.0.0.nupkg",
+        "sha512": "485abfaeb1f9dac307249b2d84375a7d63c4bb175109107ba59e3ab6b476c52a62d677ca3c06f0e9a999afd5bf2f21d396a4b4d534563bb9da8d1b8ed6fc458a",
         "dest": "nuget-sources",
-        "dest-filename": "system.text.encoding.codepages.4.5.1.nupkg"
+        "dest-filename": "system.text.encoding.codepages.7.0.0.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/system.text.encoding.codepages/4.5.1/system.text.encoding.codepages.4.5.1.nupkg",
-        "sha512": "12edddc9452a0c592eb24aeb2b9e152d60b8d44540349368e6fce3a239c6029847f8557adcd260df3b39c744ef45a6034d9db2fbce9e20e2b8dc78363578b0ef",
+        "url": "https://api.nuget.org/v3-flatcontainer/system.text.encoding.codepages/7.0.0/system.text.encoding.codepages.7.0.0.nupkg",
+        "sha512": "485abfaeb1f9dac307249b2d84375a7d63c4bb175109107ba59e3ab6b476c52a62d677ca3c06f0e9a999afd5bf2f21d396a4b4d534563bb9da8d1b8ed6fc458a",
         "dest": "nuget-sources",
-        "dest-filename": "system.text.encoding.codepages.4.5.1.nupkg"
+        "dest-filename": "system.text.encoding.codepages.7.0.0.nupkg"
     },
     {
         "type": "file",
