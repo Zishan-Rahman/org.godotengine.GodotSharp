@@ -30,6 +30,8 @@ build-options:
     # Will be appended to the version string displayed in the editor and command-line help
     BUILD_NAME: flathub
 
+    VORARBEITER_DEPLOYMENT_BUILDS: 16
+
     DOTNET_CLI_TELEMETRY_OPTOUT: True
 
     DOTNET_NOLOGO: True
@@ -186,7 +188,7 @@ modules:
       - cp nuget-source.config modules/mono/glue/GodotSharp/nuget.config
       - cp nuget-source.config modules/mono/editor/GodotTools/nuget.config
       - cp nuget-source.config modules/mono/editor/Godot.NET.Sdk/nuget.config
-      - python3 /app/bin/scons $SCONS_FLAGS $SCONS_FLAGS_EXTRA target=editor precision=single module_mono_enabled=yes -j "$FLATPAK_BUILDER_N_JOBS"
+      - python3 /app/bin/scons $SCONS_FLAGS $SCONS_FLAGS_EXTRA target=editor precision=single module_mono_enabled=yes -j "$VORARBEITER_DEPLOYMENT_BUILDS"
       - bin/godot.* --display-driver headless --generate-mono-glue modules/mono/glue
       - modules/mono/build_scripts/build_assemblies.py --godot-output-dir bin --godot-platform=linuxbsd --precision=single
       - install -D -m755 bin/godot.* /app/bin/godot-bin
